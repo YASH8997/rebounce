@@ -216,7 +216,7 @@
 
 /* scroling  */
 .img-1 {
-  background-image: url("images/trampoline_park01_mi_yBPPq.jpg");
+  background-image: url("./images/trampoline_park01_mi_yBPPq.jpg");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
