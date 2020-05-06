@@ -216,7 +216,7 @@
 
 /* scroling  */
 .img-1 {
-  background-image: url("../images/trampoline\ park01.JPG");
+  background-image: url("../images/trampoline park01.JPG");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -243,7 +243,7 @@
 }
 
 .img-4 {
-  background-image: url("../images/virtual\ reality04.jpg");
+  background-image: url("../images/virtual reality04.jpg");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -252,7 +252,7 @@
 }
 
 .img-5 {
-  background-image: url("../images/wall\ calmbing\ 05.jpg");
+  background-image: url("../images/wall calmbing 05.jpg");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -261,7 +261,7 @@
 }
 
 .img-6 {
-  background-image: url("../images/laser-tag06.png");
+  background-image: url("../images/lasertag.jpg");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -279,7 +279,7 @@
 }
 
 .img-8 {
-  background-image: url("../images/laser\ spy\ 08.jpg");
+  background-image: url("../images/laser spy 08.jpg");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -288,7 +288,7 @@
 }
 
 .img-9 {
-  background-image: url("../images/shooting\ 09.JPG");
+  background-image: url("../images/shooting 09.JPG");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -297,7 +297,7 @@
 }
 
 .img-10 {
-  background-image: url("../images/turf\ 10.jpg");
+  background-image: url("../images/turf 10.jpg");
   height: 500px;
   background-attachment: fixed;
   background-position: center;
@@ -356,7 +356,7 @@
 
 .site-footer hr {
   border-top-color: #bbb;
-  opacity: 0.5
+  opacity: 0.5.img
 }
 
 .site-footer hr.small {
